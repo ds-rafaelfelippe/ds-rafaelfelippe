@@ -2,19 +2,21 @@
 
 ## Sobre
 
-Pós-graduado em Ciência de Dados e Machine Learning, atualmente desempenho a função de analista de dados em uma consultoria especializada, sendo responsável por uma gama de atividades que abrangem desde o desenvolvimento e automação de pipelines de dados, até a elaboração de dashboards e relatórios analíticos.
+Profissional com quatro anos de experiência nas áreas de MIS, Business Intelligence e Analytics, desenvolvendo soluções com foco em engenharia e análise de dados. Minha experiência abrange desde a estruturação dos dados até a disponibilização das informações para diferentes áreas do negócio.
 
-Também possuo experiência em análises exploratórias e técnicas de machine learning, incluindo a implementação de algoritmos supervisionados e não supervisionados, utilizando diversas plataformas, ferramentas e bibliotecas para otimização e validação dos modelos, sempre com foco na geração de insights e no suporte à tomada de decisões.
+Possuo experiência na integração, tratamento e análise de dados utilizando SQL e Python, além da criação de indicadores e desenvolvimento de dashboards em Power BI.
+
+Sou pós-graduado em Ciência de Dados e Machine Learning pela PUC Campinas. A especialização ampliou minha base técnica em estatística e aprendizado de máquina, áreas nas quais continuo me aprofundando.
 
 
 ## Principais Ferramentas
 
-• Banco de Dados: `SQL Server` <br>
-• Big Data: `Apache Spark` `Databricks` <br>
-• Cloud Computing: `Amazon Web Services` <br>
-• Linguagens: `Python` `R` `SAS` `SQL` <br>
-• Machine Learning Frameworks: `MLlib` `Scikit-Learn` `TensorFlow` <br>
-• Visualização de Dados: `PowerBI` <br>
+• Banco de Dados: `SQL Server` `MongoDB` <br>
+• Engenharia de Dados: `SQL Server Integration Services (SSIS)` `Databricks` `Microsoft Fabric` <br>
+• Business Intelligence: `Power BI` `DAX` `Power Query` <br>
+• Linguagens: `SQL` `Python` `R` `SAS` <br>
+• Machine Learning: `Scikit-Learn` `MLlib` <br>
+
 
 ## Badges
 
