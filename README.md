@@ -1,4 +1,4 @@
-<a href="https://imgur.com/gvm0YIY"><img src="https://imgur.com/gvm0YIY" title="source: imgur.com" /></a>
+
 
 ## Sobre
 
