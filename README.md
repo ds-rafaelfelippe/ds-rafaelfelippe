@@ -41,6 +41,4 @@ Sou pós-graduado em Ciência de Dados e Machine Learning pela PUC Campinas. A e
   <a href="https://www.linkedin.com/in/rafaelfelippe/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=" /></a>
   
-  <a href="https://ds-rafaelfelippe.github.io/" alt="Portfólio">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Rafael%20Felippe-blue" /></a>
 </p>
